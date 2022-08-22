@@ -1,0 +1,769 @@
+[{
+  "_id": {
+    "$oid": "62ca9a4ad2a4085f6c363d80"
+  },
+  "itemsPrice": 899,
+  "taxPrice": 44.95,
+  "shippingPrice": 25,
+  "totalPrice": 968.95,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62ca9a4ad2a4085f6c363d81"
+      },
+      "product": {
+        "$oid": "62c3484b8445455af005f484"
+      },
+      "name": "HALVKLART LED cabinet spotlight, white",
+      "price": 899,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965194/products/z2qxhe7xptinyqq2eew2.png",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJwLCJAJfZb9HEBjCrC5uQy",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657444938514"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657444938523"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657444952265"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca9b5d3c61010f44d2c0ab"
+  },
+  "itemsPrice": 899,
+  "taxPrice": 44.95,
+  "shippingPrice": 25,
+  "totalPrice": 968.95,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62ca9b5d3c61010f44d2c0ac"
+      },
+      "product": {
+        "$oid": "62c3484b8445455af005f484"
+      },
+      "name": "HALVKLART LED cabinet spotlight, white",
+      "price": 899,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965194/products/z2qxhe7xptinyqq2eew2.png",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJwPcJAJfZb9HEBzcUfnNqo",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657445213563"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657445213568"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657445227988"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca9bb314400d05c4ad8fea"
+  },
+  "itemsPrice": 899,
+  "taxPrice": 44.95,
+  "shippingPrice": 25,
+  "totalPrice": 968.95,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62ca9bb314400d05c4ad8feb"
+      },
+      "product": {
+        "$oid": "62c3484b8445455af005f484"
+      },
+      "name": "HALVKLART LED cabinet spotlight, white",
+      "price": 899,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965194/products/z2qxhe7xptinyqq2eew2.png",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJwQzJAJfZb9HEB37Brvbfo",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657445299118"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657445299126"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657445324983"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca9e0f1045cd31fc65aa19"
+  },
+  "itemsPrice": 6718,
+  "taxPrice": 335.9,
+  "shippingPrice": 25,
+  "totalPrice": 7078.9,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62ca9e0f1045cd31fc65aa1a"
+      },
+      "product": {
+        "$oid": "62c2caa7d2dc612834a47a45"
+      },
+      "name": "Solimo Polaris Engineered Wood Dressing Table",
+      "price": 5819,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1657184358/products/c5ct3kwnkmnn12mwtqjh.jpg",
+      "quantity": 1
+    },
+    {
+      "_id": {
+        "$oid": "62ca9e0f1045cd31fc65aa1b"
+      },
+      "product": {
+        "$oid": "62c3484b8445455af005f484"
+      },
+      "name": "HALVKLART LED cabinet spotlight, white",
+      "price": 899,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965194/products/z2qxhe7xptinyqq2eew2.png",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJwakJAJfZb9HEBo3xRDKqA",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657445903294"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657445903304"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657445995101"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca9e381045cd31fc65aa1c"
+  },
+  "itemsPrice": 999,
+  "taxPrice": 49.95,
+  "shippingPrice": 25,
+  "totalPrice": 1073.95,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62ca9e381045cd31fc65aa1d"
+      },
+      "product": {
+        "$oid": "62c349068445455af005f486"
+      },
+      "name": "RÅSKOG Trolley",
+      "price": 999,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965379/products/prwdntonv8gkcb7wfulr.png",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJwbPJAJfZb9HEB9GVgoiQu",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657445944464"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657445944472"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657446153486"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca9efa3521af1a102de1af"
+  },
+  "itemsPrice": 6718,
+  "taxPrice": 335.9,
+  "shippingPrice": 25,
+  "totalPrice": 7078.9,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62ca9efa3521af1a102de1b0"
+      },
+      "product": {
+        "$oid": "62c2caa7d2dc612834a47a45"
+      },
+      "name": "Solimo Polaris Engineered Wood Dressing Table",
+      "price": 5819,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1657184358/products/c5ct3kwnkmnn12mwtqjh.jpg",
+      "quantity": 1
+    },
+    {
+      "_id": {
+        "$oid": "62ca9efa3521af1a102de1b1"
+      },
+      "product": {
+        "$oid": "62c3484b8445455af005f484"
+      },
+      "name": "HALVKLART LED cabinet spotlight, white",
+      "price": 899,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965194/products/z2qxhe7xptinyqq2eew2.png",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJweXJAJfZb9HEBu1EZM2zg",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657446138093"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657446138098"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657446188138"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca9ff5e1271506c8bfeba0"
+  },
+  "itemsPrice": 1669,
+  "taxPrice": 83.45,
+  "shippingPrice": 25,
+  "totalPrice": 1777.45,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62ca9ff5e1271506c8bfeba1"
+      },
+      "product": {
+        "$oid": "62c2c9e4d2dc612834a47a43"
+      },
+      "name": "Dining Table with 4 Cushioned Chair and 1 Bench for Home & Office Furniture",
+      "price": 670,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656932735/products/fmhpt81e8t1oq0bh780k.jpg",
+      "quantity": 1
+    },
+    {
+      "_id": {
+        "$oid": "62ca9ff5e1271506c8bfeba2"
+      },
+      "product": {
+        "$oid": "62c349068445455af005f486"
+      },
+      "name": "RÅSKOG Trolley",
+      "price": 999,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965379/products/prwdntonv8gkcb7wfulr.png",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJwiaJAJfZb9HEBpfcDbZ58",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657446389188"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657446389195"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657446400441"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62caa0e912420f2fb85cf078"
+  },
+  "itemsPrice": 670,
+  "taxPrice": 33.5,
+  "shippingPrice": 25,
+  "totalPrice": 728.5,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62caa0e912420f2fb85cf079"
+      },
+      "product": {
+        "$oid": "62c2c9e4d2dc612834a47a43"
+      },
+      "name": "Dining Table with 4 Cushioned Chair and 1 Bench for Home & Office Furniture",
+      "price": 670,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656932735/products/fmhpt81e8t1oq0bh780k.jpg",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJwmWJAJfZb9HEBzURnMYpy",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657446633338"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657446633348"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657446647902"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62caa261e4be8932dcb4ca06"
+  },
+  "itemsPrice": 5819,
+  "taxPrice": 290.95,
+  "shippingPrice": 25,
+  "totalPrice": 6134.95,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62caa261e4be8932dcb4ca07"
+      },
+      "product": {
+        "$oid": "62c2caa7d2dc612834a47a45"
+      },
+      "name": "Solimo Polaris Engineered Wood Dressing Table",
+      "price": 5819,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1657184358/products/c5ct3kwnkmnn12mwtqjh.jpg",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJwsaJAJfZb9HEBnsI603HY",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657447009392"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657447009409"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657447022970"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62caa29ae4be8932dcb4ca08"
+  },
+  "itemsPrice": 999,
+  "taxPrice": 49.95,
+  "shippingPrice": 25,
+  "totalPrice": 1073.95,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62caa29ae4be8932dcb4ca09"
+      },
+      "product": {
+        "$oid": "62c349068445455af005f486"
+      },
+      "name": "RÅSKOG Trolley",
+      "price": 999,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965379/products/prwdntonv8gkcb7wfulr.png",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJwtWJAJfZb9HEBPq6UETN8",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657447066859"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657447066862"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657447079028"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62caaf9f63bc9418187f40ed"
+  },
+  "itemsPrice": 590,
+  "taxPrice": 29.5,
+  "shippingPrice": 25,
+  "totalPrice": 644.5,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62caaf9f63bc9418187f40ee"
+      },
+      "product": {
+        "$oid": "62c2c9e4d2dc612834a47a43"
+      },
+      "name": "Dining Table with 4 Cushioned Chair and 1 Bench for Home & Office Furniture",
+      "price": 670,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656932735/products/fmhpt81e8t1oq0bh780k.jpg",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJxlHJAJfZb9HEBDptS3Zjj",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657450399698"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657450399710"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657450415867"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62caaffc63bc9418187f40ef"
+  },
+  "itemsPrice": 791,
+  "taxPrice": 39.55,
+  "shippingPrice": 25,
+  "totalPrice": 855.55,
+  "orderStatus": "Delivered",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62caaffc63bc9418187f40f0"
+      },
+      "product": {
+        "$oid": "62c3484b8445455af005f484"
+      },
+      "name": "HALVKLART LED cabinet spotlight, white",
+      "price": 899,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965194/products/z2qxhe7xptinyqq2eew2.png",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJxmmJAJfZb9HEBDjqXwco4",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657450492510"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657450492513"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1657450505510"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62cac4c81fd40d4d5cce5870"
+  },
+  "itemsPrice": 791,
+  "taxPrice": 39.55,
+  "shippingPrice": 25,
+  "totalPrice": 855.55,
+  "orderStatus": "Processing",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62cac4c81fd40d4d5cce5871"
+      },
+      "product": {
+        "$oid": "62c2c92ed2dc612834a47a41"
+      },
+      "name": "Solimo Alen 6 Seater Fabric RHS L Shape Sofa Set (Blue)",
+      "price": 899,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656932553/products/wydm9gedewhp5e3ivkmz.webp",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJzAdJAJfZb9HEBTQXheVdo",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657455816512"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657455816518"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cac5b0eed776236839162d"
+  },
+  "itemsPrice": 670,
+  "taxPrice": 33.5,
+  "shippingPrice": 25,
+  "totalPrice": 728.5,
+  "orderStatus": "Processing",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62cac5b0eed776236839162e"
+      },
+      "product": {
+        "$oid": "62c2c9e4d2dc612834a47a43"
+      },
+      "name": "Dining Table with 4 Cushioned Chair and 1 Bench for Home & Office Furniture",
+      "price": 670,
+      "image": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656932735/products/fmhpt81e8t1oq0bh780k.jpg",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "GANDHINAGAR",
+    "city": "HYDERABAD",
+    "phoneNo": "1234567890",
+    "postalCode": "500080",
+    "country": "India"
+  },
+  "paymentInfo": {
+    "id": "pi_1LJzENJAJfZb9HEBDAS05zXL",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1657456048266"
+    }
+  },
+  "user": {
+    "$oid": "62c33c21d16f1c491cd0b278"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657456048274"
+    }
+  },
+  "__v": 0
+}]

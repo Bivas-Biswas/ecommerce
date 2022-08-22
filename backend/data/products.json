@@ -1,0 +1,249 @@
+[{
+    "_id": {
+      "$oid": "62c2c92ed2dc612834a47a41"
+    },
+    "price": 899,
+    "ratings": 0,
+    "stock": 97,
+    "numOfReviews": 0,
+    "name": "Solimo Alen 6 Seater Fabric RHS L Shape Sofa Set (Blue)",
+    "description": "L Shaped Six-seater sofa with lounger made from high-quality fabric in blue color\r\nProduct Dimensions: Sofa set - Length (71 inch), width (30 inch), height (31 inch) and Lounger - Length (72 inch), width (30 inch), height (31 inch)\r\nOver 30 tests conducted to ensure quality\r\nFabric does not lose color while rubbing\r\nPassed durability testing with 100 kg on each seat and backrest for 25,000 cycles",
+    "category": "Home",
+    "seller": "Yuvrat",
+    "images": [
+      {
+        "_id": {
+          "$oid": "62c2c92ed2dc612834a47a42"
+        },
+        "public_id": "products/wydm9gedewhp5e3ivkmz",
+        "url": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656932553/products/wydm9gedewhp5e3ivkmz.webp"
+      }
+    ],
+    "user": {
+      "$oid": "62c299d351238e32b4b0b08c"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1656932654327"
+      }
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "62c2c9e4d2dc612834a47a43"
+    },
+    "price": 670,
+    "ratings": 0,
+    "stock": 834,
+    "numOfReviews": 0,
+    "name": "Dining Table with 4 Cushioned Chair and 1 Bench for Home & Office Furniture",
+    "description": "Product Dimensions(In Inch): Single Seater: Length 29.5 X Width 29.5 X Height 34 | Three Seater: Length 69.5 X Width 29 X Height 34\r\nPrimary Material: Sheesham Wood | Secondary Material: MDF (Is Only Applicable For Those Products Which Have Drawers) | Product Name: Wooden Five Seater Sofa For Living Room & Office.\r\nAssembly Or Installation Is Based On Diy (Do It Yourself) Basis.\r\nWe Provide The Best Quality Products. Every Product Goes Through A Tough Quality Check To Ensure That We Can Serve Our Best Way. Only Made In India Products.",
+    "category": "Home",
+    "seller": "Ratendhar market",
+    "images": [
+      {
+        "_id": {
+          "$oid": "62c2c9e4d2dc612834a47a44"
+        },
+        "public_id": "products/fmhpt81e8t1oq0bh780k",
+        "url": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656932735/products/fmhpt81e8t1oq0bh780k.jpg"
+      }
+    ],
+    "user": {
+      "$oid": "62c299d351238e32b4b0b08c"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1656932836749"
+      }
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "62c2caa7d2dc612834a47a45"
+    },
+    "price": 5819,
+    "ratings": 0,
+    "stock": 87,
+    "numOfReviews": 0,
+    "name": "Solimo Polaris Engineered Wood Dressing Table",
+    "description": "Premium quality engineered wood structure which has undergone more than 15 safety and quality tests\r\nSmooth, curvilinear edges for enhanced aesthetics and protection against scrapes and cuts\r\nSleek wenge finish which gives it a glossy look and makes it easy to clean\r\nWell-fitted, long mirror for convenient full-body view\r\nSpacious storage shelves for keeping everyday essentials like toiletries, make-up, etc.\r\nHollow base provides extra leg room and space for putting stool, ottoman, etc.\r\nDurable materials tested for resistance against humidity, stains and hot water",
+    "category": "Furniture",
+    "seller": "Kashmir home furniture market",
+    "images": [
+      {
+        "_id": {
+          "$oid": "62c6a0672519d72ae8781000"
+        },
+        "public_id": "products/c5ct3kwnkmnn12mwtqjh",
+        "url": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1657184358/products/c5ct3kwnkmnn12mwtqjh.jpg"
+      }
+    ],
+    "user": {
+      "$oid": "62c299d351238e32b4b0b08c"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1656933031997"
+      }
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "62c2cbd0d2dc612834a47a47"
+    },
+    "price": 650,
+    "ratings": 0,
+    "stock": 94,
+    "numOfReviews": 0,
+    "name": "Outdoor Furniture Garden Patio Seating Set 4+1 (4 Chairs, 1 Table Set)",
+    "description": "Outdoor Balcony Chair set\r\nIron Metal Chair set\r\nHigh Density polyethylene rattan wicker cane patio furniture\r\nUV Proof & waterproof\r\nFurntiure for outdoor indoor patio garden coffee table set",
+    "category": "Outdoor",
+    "seller": "Kashmir furniture market",
+    "images": [
+      {
+        "_id": {
+          "$oid": "62c93e06f1064a0a18602498"
+        },
+        "public_id": "products/bmare1rb7zcpfmduwjw3",
+        "url": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1657355780/products/bmare1rb7zcpfmduwjw3.webp"
+      }
+    ],
+    "user": {
+      "$oid": "62c299d351238e32b4b0b08c"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1656933328905"
+      }
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "62c345e78445455af005f480"
+    },
+    "price": 799,
+    "ratings": 0,
+    "stock": 15,
+    "numOfReviews": 0,
+    "name": "BITTERGURKA",
+    "description": "Decorate your home with plants combined with a plant pot to suit your style.\r\n\r\nThe plant stand lifts small plants to new heights and gives an airy impression.",
+    "category": "Pots & Plants",
+    "seller": "Maria",
+    "images": [
+      {
+        "_id": {
+          "$oid": "62c345e78445455af005f481"
+        },
+        "public_id": "products/sxb4enawooho1z93r6fb",
+        "url": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656964583/products/sxb4enawooho1z93r6fb.png"
+      }
+    ],
+    "user": {
+      "$oid": "62c33c21d16f1c491cd0b278"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1656964583843"
+      }
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "62c3484b8445455af005f484"
+    },
+    "price": 899,
+    "ratings": 0,
+    "stock": 8,
+    "numOfReviews": 0,
+    "name": "HALVKLART LED cabinet spotlight, white",
+    "description": "Suitable for use in confined spaces, such as cabinets, bookshelves and closets, as the LED light source only emits low heat.\r\n\r\nUses LEDs, which consume up to 85% less energy and last 20 times longer than incandescent bulbs.\r\n\r\n",
+    "category": "Lighting",
+    "seller": "Vijay",
+    "images": [
+      {
+        "_id": {
+          "$oid": "62c3484b8445455af005f485"
+        },
+        "public_id": "products/z2qxhe7xptinyqq2eew2",
+        "url": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965194/products/z2qxhe7xptinyqq2eew2.png"
+      }
+    ],
+    "user": {
+      "$oid": "62c33c21d16f1c491cd0b278"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1656965195713"
+      }
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "62c349068445455af005f486"
+    },
+    "price": 999,
+    "ratings": 0,
+    "stock": 6,
+    "numOfReviews": 0,
+    "name": "RÅSKOG Trolley",
+    "description": "This trolley fits in the smallest of spaces and can be moved to wherever you need it. Use it as extra storage for all your kitchen utensils, desk accessories or for gloves, keys and mobile phones.",
+    "category": "Kitchen & appliances",
+    "seller": "Victor",
+    "images": [
+      {
+        "_id": {
+          "$oid": "62c349068445455af005f487"
+        },
+        "public_id": "products/prwdntonv8gkcb7wfulr",
+        "url": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965379/products/prwdntonv8gkcb7wfulr.png"
+      }
+    ],
+    "user": {
+      "$oid": "62c33c21d16f1c491cd0b278"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1656965382110"
+      }
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "62c34ab1a6b46a39a039f683"
+    },
+    "price": 750,
+    "ratings": 0,
+    "stock": 2,
+    "numOfReviews": 0,
+    "name": "SONGESAND Bed frame with 2 storage boxes,",
+    "description": "A sturdy bed frame with soft, profile edges and high legs. A classic shape that will last for many years. Also, there are spacious storage boxes under the bed where you can store bedding or clothes.\r\n",
+    "category": "Beds & mattresses",
+    "seller": "Ravi",
+    "images": [
+      {
+        "_id": {
+          "$oid": "62c34ab1a6b46a39a039f684"
+        },
+        "public_id": "products/f9lyesn1wthrccykbavz",
+        "url": "https://res.cloudinary.com/dsjbki7ta/image/upload/v1656965808/products/f9lyesn1wthrccykbavz.png"
+      }
+    ],
+    "user": {
+      "$oid": "62c33c21d16f1c491cd0b278"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1656965809921"
+      }
+    },
+    "__v": 0
+  }]
